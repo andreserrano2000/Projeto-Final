@@ -1,0 +1,10 @@
+D:\Escola\Projeto Final\Código\Sintrex\Sintrex\bin\Debug\Sintrex.exe.config
+D:\Escola\Projeto Final\Código\Sintrex\Sintrex\bin\Debug\Sintrex.exe
+D:\Escola\Projeto Final\Código\Sintrex\Sintrex\bin\Debug\Sintrex.pdb
+D:\Escola\Projeto Final\Código\Sintrex\Sintrex\obj\Debug\Sintrex.csprojAssemblyReference.cache
+D:\Escola\Projeto Final\Código\Sintrex\Sintrex\obj\Debug\Sintrex.Form1.resources
+D:\Escola\Projeto Final\Código\Sintrex\Sintrex\obj\Debug\Sintrex.Properties.Resources.resources
+D:\Escola\Projeto Final\Código\Sintrex\Sintrex\obj\Debug\Sintrex.csproj.GenerateResource.cache
+D:\Escola\Projeto Final\Código\Sintrex\Sintrex\obj\Debug\Sintrex.csproj.CoreCompileInputs.cache
+D:\Escola\Projeto Final\Código\Sintrex\Sintrex\obj\Debug\Sintrex.exe
+D:\Escola\Projeto Final\Código\Sintrex\Sintrex\obj\Debug\Sintrex.pdb
